@@ -5,6 +5,7 @@ Inteligente
  Área temática: automação e controle sonoro em ambientes de grande porte
 
  *RESUMO*
+ 
  O presente projeto apresenta o SoundMonitor, um sistema embarcado voltado para a 
 monitoração sonora em tempo real. Seu objetivo central é auxiliar operadores de som em 
 ambientes como igrejas, teatros e eventos ao vivo, permitindo que tenham um retorno preciso 
@@ -17,6 +18,7 @@ solução acessível e prática para o controle sonoro em grandes espaços.
  Palavras-chave: Monitoramento sonoro. IoT. Sistemas embarcados. Acústica. Automação.
  
  *INTRODUÇÃO* 
+ 
 Em ambientes como igrejas, teatros e eventos ao vivo, a qualidade do som 
 desempenha um papel fundamental na experiência do público. No entanto, um dos principais 
 desafios enfrentados pelos operadores de som é a dificuldade de avaliar com precisão o 
@@ -36,6 +38,7 @@ contextos onde o responsável pelo controle do som está distante da fonte sonor
 shows, conferências e auditórios.
 
 *METODOLOGIA*
+
 O desenvolvimento do SoundMonitor envolveu a utilização da placa BitDogLab, 
 que integra os principais componentes necessários para o processamento do sinal sonoro e 
 comunicação com a nuvem. Os principais elementos empregados no projeto incluem:
@@ -54,6 +57,7 @@ detalhadas, como o nível de volume e o valor medido em decibéis (dB).
 protocolo HTTP.
 
 *DESENVOLVIMENTO*
+
  O desenvolvimento deste projeto foi estruturado em diversas etapas, abrangendo desde a 
 criação de diagramas e a captação do som até a transmissão segura dos dados para a nuvem. 
 Cada fase foi planejada com rigor para assegurar precisão, eficiência e confiabilidade no 
@@ -110,6 +114,7 @@ acompanhamento visual em tempo real.
 análise dos dados de qualquer local, facilitando o monitoramento remoto.
 
  *CONCLUSÃO*
+ 
  O projeto SoundMonitor atingiu seus objetivos ao oferecer um sistema de 
 monitoramento sonoro acessível e funcional para operadores de som em ambientes amplos. O 
 sistema demonstrou ser eficiente na captação e exibição dos níveis sonoros, contribuindo para 
